@@ -1,18 +1,18 @@
-#Research by Andrew Hay
+##Research by Andrew Hay
 
-##About
+###About
 
 This repository serves as a collection of my research, data analysis, and other ideas.
 
-## Position Papers
+### Position Papers
 
-Determining Cloud Service Provider property values using real estate economic models and the exposed attack surface area of neighboring guest instances
-- Andrew Hay, November 25, 2013
+- Determining Cloud Service Provider property values using real estate economic models and the exposed attack surface area of neighboring guest instances
+-- Andrew Hay, November 25, 2013
 
-## Research Papers
+### Research Papers
 
 Coming soon...
 
-##Contact
+### Contact
 
 To provide any feedback or ask any questions please reach out to Andrew Hay on Twitter at <a href="http://twitter.com/andrewsmhay" target="new">@andrewsmhay</a>.
