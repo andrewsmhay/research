@@ -6,7 +6,7 @@ This repository serves as a collection of my research, data analysis, and other 
 
 ### Position Papers
 
-- Determining Cloud Service Provider property values using real estate economic models and the exposed attack surface area of neighboring guest instances
+- <a href="https://github.com/andrewsmhay/research/blob/master/pp/propertyvalues.md">Determining Cloud Service Provider property values using real estate economic models and the exposed attack surface area of neighboring guest instances</a>
 -- Andrew Hay, November 25, 2013
 
 ### Research Papers

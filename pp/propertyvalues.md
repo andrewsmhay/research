@@ -1,7 +1,7 @@
 ### Determining Cloud Service Provider property values using real estate economic models and the exposed attack surface area of neighboring guest instances
 
 Date: Sunday, November 24th, 2013
-Author: Andrew Hay
+<br />Author: Andrew Hay
 
 <b>The economic models used to derive real estate property values can be adjusted and applied to Cloud Service Providers (CSP) pricing to help determine more accurate valuation of guest instances and the region in which they operate.</b>
 
