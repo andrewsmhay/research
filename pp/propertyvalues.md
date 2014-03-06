@@ -30,4 +30,4 @@ A number of external data points exist as possible inputs for the valuation mode
 Using the model, an end user can determine if a $0.06 per-compute-hour cost is an undervaluation or overvaluation of a guest property for a particular CSP neighborhood and geographic region.
 
 __________
-Andrew Hay is the Director of Applied Security Research at CloudPassage, Inc. He can be reached at andrew@cloudpassage.com.
+Andrew Hay can be reached via Twitter at @andrewsmhay
