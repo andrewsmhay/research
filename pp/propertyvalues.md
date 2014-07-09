@@ -1,4 +1,5 @@
 ### Determining Cloud Service Provider property values using real estate economic models and the exposed attack surface area of neighboring guest instances
+<i>"Is my provider a slum lord and am I surrounded by dangerous tenants"</i>
 
 Date: Sunday, November 24th, 2013
 <br />Author: Andrew Hay
